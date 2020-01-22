@@ -2,9 +2,9 @@
   "members": {
     "Name": "Monica Turner",
     "VIP Tier": "Gold",
-    "Points balance": 2947,
-    "Points spent": 1700,
+    "Points balance": "2947",
+    "Points spent": "1700",
     "Amount spent": "$3684",
-    "Refferals": 17
+    "Refferals": "17"
   }
 }
