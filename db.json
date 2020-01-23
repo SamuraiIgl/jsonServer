@@ -1,6 +1,5 @@
 {
-  "members": {
-    [
+  "members": [
       {
         "name": "Monica Turner",
         "tier": "Gold",
@@ -33,6 +32,5 @@
         "amount_spent": "3684",
         "refferals": "17"
       }
-    ]
-  }
+  ]
 }
